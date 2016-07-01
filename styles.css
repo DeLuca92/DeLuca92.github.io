@@ -1,0 +1,42 @@
+.post{
+	float: right;
+	border-style: double;
+    border-width: 2px;
+	width: 60%;
+	margin: 1%;
+	padding:1%;
+}
+.newPost{
+	float: left;
+	text-align: center;
+	border-style: double;
+    border-width: 2px;
+	margin: 1%;
+	padding:1%;
+	width: 20%;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+table, th , td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
